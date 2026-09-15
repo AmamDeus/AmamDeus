@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Chinonso Amamchukwu, (Frank AmamDeus).
-- 👀 I’m interested in Reinforcement Learning and Human-AI Interaction for Decision-Making.
+- 👀 I’m interested in Data Science and data engineering for Decision-Making.
 - 📫 You can reach out to me via: amamdeus@gmail.com. My Twitter handle is @amamdeus.
 ## Let's solve a problem!
 
